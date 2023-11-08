@@ -1,0 +1,5 @@
+﻿  lab_7.3rec.cpp
+C:\Student\LAB_7.3rec\LAB_7.3rec\lab_7.3rec.cpp(108,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Student\LAB_7.3rec\LAB_7.3rec\lab_7.3rec.cpp(164,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Student\LAB_7.3rec\LAB_7.3rec\lab_7.3rec.cpp(116): warning C4715: 'Sum': not all control paths return a value
+  LAB_7.3rec.vcxproj -> C:\Student\LAB_7.3rec\x64\Debug\LAB_7.3rec.exe
